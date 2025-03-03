@@ -2,9 +2,10 @@ package main
 
 import (
 	"log"
-	"https://github.com/KaratayBerkay/go-gin-backend-project.git/database"
-	"https://github.com/KaratayBerkay/go-gin-backend-project.git/routes"
+	"github.com/KaratayBerkay/go-gin-backend-project/database"
+	"github.com/KaratayBerkay/go-gin-backend-project/routes"
 )
+
 
 func main() {
 	// Connect to database
