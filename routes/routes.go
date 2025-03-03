@@ -1,11 +1,11 @@
 package routes
 
 import (
-	"yourproject/controllers"
-	"yourproject/middleware"
-
+	"github.com/KaratayBerkay/go-gin-backend-project/controllers"
+	"github.com/KaratayBerkay/go-gin-backend-project/middleware"
 	"github.com/gin-gonic/gin"
 )
+
 
 // SetupRouter configures the API routes
 func SetupRouter() *gin.Engine {
